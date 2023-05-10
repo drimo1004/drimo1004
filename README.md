@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Drimo!
 
+- 🌱 I’m currently learning: Java
+- 📫 How to reach me: please send me an email - drimo1004@gmail.com
 <!--
 **drimo1004/drimo1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
